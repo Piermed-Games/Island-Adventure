@@ -5,6 +5,4 @@ Jogo
 
 ## Premissa
  
- dede
-
-dedede
+ Fabio e Heitor
