@@ -1,5 +1,7 @@
-# jogo
+# Jogo
 Jogo
 
+* Projeto do semestre 2024-2
 
-Escrever a sinopse do jogo aqui!
+## Premissa
+
