@@ -7,10 +7,10 @@ Dois amigos, Fábio e Heitor,  estão insatisfeitos com seus corpos. Fábio, mui
 ## Referências:
 
 Documentários:
-"Like a Machine";
-"Arnold";
+* "Like a Machine";
+* "Blood and Guts";
 
 
 Jogos:
-"Super Mario World";
-"Money Movers";
+* "Super Mario World";
+* "Money Movers";
