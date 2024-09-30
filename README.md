@@ -1,12 +1,16 @@
-# Jogo
-Jogo
+## Shape Adventure
 
-* Projeto do semestre 2024-2
-
-## Premissa
+## Premissa Básica do Jogo
  
-Criar a premissa aqui!
-quaz quaz quaz lero lero 
-abcde
-dedee
-abc
+Dois amigos, Fábio e Heitor,  estão insatisfeitos com seus corpos. Fábio, muito magro, sempre sonhou com um físico musculoso. Heitor, no entanto, sempre teve problemas com seu excesso de peso. Um dia, porém, depois de uma vida inteira de sofrimento, eles, finalmente, resolveram mudar.  Mas, para isso, precisarão antes enfrentar um árduo processo, repleto de obstáculos e superações.  Será que eles irão conseguir? 
+
+## Referências:
+
+Documentários:
+"Like a Machine"
+"Arnold"
+
+
+Jogos:
+"Super Mario World"
+"Money Movers"
