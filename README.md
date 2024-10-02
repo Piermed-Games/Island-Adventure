@@ -1,3 +1,4 @@
+
 # Shape Adventure
 
 ## Premissa do Jogo
@@ -19,10 +20,10 @@ Heitor: é um jovem que enfrenta desafios devido ao seu extremo sobrepeso, o que
 # Referências:
 
 Documentários:
-* "Like a Machine";
-* "Blood and Guts";
+[* "Like a Machine";](https://www.youtube.com/watch?v=ortGpPKJTnM)
+[* "Blood and Guts";](https://www.youtube.com/watch?v=ZkZPt-vbT34)
 
 
 Jogos:
-* "Super Mario World";
-* "Money Movers";
+* ["Super Mario World";](https://www.techtudo.com.br/noticias/2014/05/super-mario-world-confira-evolucao-do-classico-jogo-do-encanador.ghtml)
+* ["Money Movers";](https://www.jogos360.com.br/money_movers_2.html)  
