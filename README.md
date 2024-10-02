@@ -38,6 +38,15 @@ Os caminhos de Fábio e Heitor se cruzaram em um evento de fitness local, onde a
 
 Acompanhe essa jornada virtual de superação. Ajude os protagonistas a vencerem esse processo que milhões de pessoas enfrentam diariamente.
 
+## Regras do Jogo
+
+* Cada personagem terá apenas uma vida, com opção de reviver mediante a anúncios.
+* A câmera se moverá com os personagens.
+* Ao pular por cima dos vilões (hambúrguers, pizzas...), o personagem irá eliminá-los.
+* Fábio, por ter menos força, precisará pular duas vezes em cima dos vilões para matá-los.
+* Ao passar as fases, os personagens evoluirão seus físicos.
+  
+
 # Referências:
 
 Documentários:
