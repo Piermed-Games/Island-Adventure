@@ -20,8 +20,8 @@ Heitor: é um jovem que enfrenta desafios devido ao seu extremo sobrepeso, o que
 # Referências:
 
 Documentários:
-[* "Like a Machine";](https://www.youtube.com/watch?v=ortGpPKJTnM)
-[* "Blood and Guts";](https://www.youtube.com/watch?v=ZkZPt-vbT34)
+*[ "Like a Machine";](https://www.youtube.com/watch?v=ortGpPKJTnM)
+* [ "Blood and Guts";](https://www.youtube.com/watch?v=ZkZPt-vbT34)
 
 
 Jogos:
