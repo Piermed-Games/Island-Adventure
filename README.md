@@ -55,11 +55,10 @@ Acompanhe essa jornada virtual de superação. Ajude os protagonistas a vencerem
 
 # Referências:
 
-Documentários:
-* [ "Like a Machine";](https://www.youtube.com/watch?v=ortGpPKJTnM)
-* [ "Blood and Guts";](https://www.youtube.com/watch?v=ZkZPt-vbT34)
+Série:
+* [ "The 100";](https://pt.wikipedia.org/wiki/The_100_(s%C3%A9rie_de_televis%C3%A3o))
+* [ "Lost";](https://pt.wikipedia.org/wiki/Lost_(s%C3%A9rie_de_televis%C3%A3o))
 
 
 Jogos:
-* ["Super Mario World";](https://www.techtudo.com.br/noticias/2014/05/super-mario-world-confira-evolucao-do-classico-jogo-do-encanador.ghtml)
-* ["Money Movers";](https://www.jogos360.com.br/money_movers_2.html)  
+* [The Forest] (https://pt.wikipedia.org/wiki/The_Forest_(jogo_eletr%C3%B4nico)) [(Jogo)] (https://store.steampowered.com/app/242760/The_Forest/)
