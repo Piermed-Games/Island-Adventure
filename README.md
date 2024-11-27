@@ -23,7 +23,8 @@ Com múltiplos finais, decisões impactantes e uma narrativa imersiva, o jogo me
 Fábio, por começar o processo com magreza extrema, irá ter a capacidade de se movimentar mais rápido e pular mais alto. Porém, não terá força suficiente para muitas tarefas.
 
 #### Heitor: 
-Heitor, por começar o processo com sobrepeso, irá se movimentar mais devagar e pular mais baixo. Ele terá, em compensação, mais força que Fábio para certas tarefas.
+
+Heitor, um jovem determinado, sempre sonhou em ver a aurora boreal na Islândia, fascinado desde criança pelas imagens no livro escolar. Apesar de crescer em uma comunidade periférica e com poucas expectativas, ele perseverou: estudou intensamente, ingressou em Ciência da Computação, conquistou um estágio disputado e tornou-se programador. Com suas economias, realizou o sonho de viajar à Islândia, marcando o início de sua ascensão. Em setembro, com tudo planejado, embarcou cheio de expectativas, recebendo a liberdade de escolher qualquer assento no avião. Agora, seu próximo passo depende de você decidir.
 
 ## Objetivo do Jogo
 Os usuários precisarão superar todos os desafios e vencer as fases. À medida que os personagens avançarem as etapas, seus corpos irão evoluir de forma análoga ao processo real de recomposição corporal. Assim, ao final do jogo, os protagonistas atingirão o objetivo físico desejado.
