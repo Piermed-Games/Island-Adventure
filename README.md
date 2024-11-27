@@ -61,4 +61,4 @@ Série:
 
 
 Jogos:
-* [The Forest] (https://pt.wikipedia.org/wiki/The_Forest_(jogo_eletr%C3%B4nico)) [(Jogo)] (https://store.steampowered.com/app/242760/The_Forest/)
+* [The Forest](https://pt.wikipedia.org/wiki/The_Forest_(jogo_eletr%C3%B4nico)) [(Jogo)](https://store.steampowered.com/app/242760/The_Forest/)
