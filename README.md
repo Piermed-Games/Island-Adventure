@@ -42,11 +42,10 @@ Acompanhe essa jornada virtual de superação. Ajude os protagonistas a vencerem
 
 ## Regras do Jogo
 
-* Cada personagem terá apenas uma vida, com opção de reviver mediante a anúncios.
-* A câmera se moverá com os personagens.
-* Ao pular por cima dos vilões (hambúrguers, pizzas...), o personagem irá eliminá-los.
-* Fábio, por ter menos força, precisará pular duas vezes em cima dos vilões para matá-los.
-* Ao passar as fases, os personagens evoluirão seus físicos.
+* Cada jogador deverá tomar decisões e fazer escolhas para avançar na história
+* Caso o jogador escolha algo errado ele pode consertar recomeçando o jogo
+* Se o jogador chegar no final que beneficie o personagem, ele será premiado com uma certa quantidade de crédito.
+* Ao final do jogo, para resgatar o crédito, o jogador deverá fazer login com a mesma conta google usada na feira de jogos.
   
 
 # Referências:
