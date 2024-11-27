@@ -28,11 +28,7 @@ Heitor, por começar o processo com sobrepeso, irá se movimentar mais devagar e
 ## Objetivo do Jogo
 Os usuários precisarão superar todos os desafios e vencer as fases. À medida que os personagens avançarem as etapas, seus corpos irão evoluir de forma análoga ao processo real de recomposição corporal. Assim, ao final do jogo, os protagonistas atingirão o objetivo físico desejado.
 
-## Receita do Jogo
-* Ao final de cada fase, rodará um anúncio;
-* Opção sem anúncios por um valor de 3,99;
-* Os usuários que falharem terão a opção de reviver assistindo a um anúncio;
-* Será disponibilizado um grupo de membros no Discord, que dará dicas de musculação e alimentação mediante uma mensalidade de R$ 5,99.
+
 
 ## Enredo
 
