@@ -20,26 +20,25 @@ Com múltiplos finais, decisões impactantes e uma narrativa imersiva, o jogo me
 ## Personagens
 
 #### Fábio:
-Fábio, por começar o processo com magreza extrema, irá ter a capacidade de se movimentar mais rápido e pular mais alto. Porém, não terá força suficiente para muitas tarefas.
+
+
+
 
 #### Heitor: 
 
 Heitor, um jovem determinado, sempre sonhou em ver a aurora boreal na Islândia, fascinado desde criança pelas imagens no livro escolar. Apesar de crescer em uma comunidade periférica e com poucas expectativas, ele perseverou: estudou intensamente, ingressou em Ciência da Computação, conquistou um estágio disputado e tornou-se programador. Com suas economias, realizou o sonho de viajar à Islândia, marcando o início de sua ascensão. Em setembro, com tudo planejado, embarcou cheio de expectativas, recebendo a liberdade de escolher qualquer assento no avião. Agora, seu próximo passo depende de você decidir.
 
 ## Objetivo do Jogo
-Os usuários precisarão superar todos os desafios e vencer as fases. À medida que os personagens avançarem as etapas, seus corpos irão evoluir de forma análoga ao processo real de recomposição corporal. Assim, ao final do jogo, os protagonistas atingirão o objetivo físico desejado.
+O objetivo de Island Adventure é sobreviver em uma ilha hostil, explorando seus mistérios e buscando sinais do outro sobrevivente após a queda de um avião. Você deve gerenciar recursos, enfrentar perigos naturais e psicológicos e tomar decisões que afetam tanto o destino do seu personagem quanto do outro. A meta final é escapar da ilha, decidindo o futuro dos personagens com base nas escolhas feitas ao longo da jornada.
 
 
 
 ## Enredo
 
-Fábio sempre se sentiu invisível. Cada dia era uma luta contra a sensação de inadequação, e, à medida que se via refletido em espelhos, o peso emocional de sua fragilidade o consumia. Mas, ao invés de se entregar à tristeza, ele decidiu que era hora de mudar sua história. Com um coração cheio de determinação, Fábio embarcou em uma jornada de autodescoberta, buscando o shape perfeito não apenas para si, mas para inspirar outros a acreditarem em suas próprias forças.
 
-Enquanto isso, Heitor lutava contra seu próprio demônio: o sobrepeso que o isolava do mundo. Os constantes ataques de bullying o fizeram se retrair em casa, mas dentro dele ardia uma chama de resiliência. Com um espírito indomável, Heitor começou a explorar novas formas de se expressar, encontrando motivação em sua paixão por esportes e saúde. Ele sabia que não estava sozinho e que, mesmo nas dificuldades, poderia se tornar um exemplo para outros que enfrentavam desafios semelhantes.
 
-Os caminhos de Fábio e Heitor se cruzaram em um evento de fitness local, onde ambos buscavam transformação. Os dois, buscando uma recomposição corporal, encontraram apoio um no outro. Juntos, eles formaram uma amizade sólida, compartilhando dicas, desafios e conquistas.
 
-Acompanhe essa jornada virtual de superação. Ajude os protagonistas a vencerem esse processo que milhões de pessoas enfrentam diariamente.
+
 
 ## Regras do Jogo
 
