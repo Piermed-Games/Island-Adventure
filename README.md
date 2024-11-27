@@ -1,15 +1,21 @@
 
-# Shape Adventure
+# Island Adventure
 
 ## Premissa do Jogo
  
-Dois amigos, Fábio e Heitor, cresceram insatisfeitos com seus corpos. Fábio, muito magro, sempre sonhou com um físico musculoso. Heitor, no entanto, sempre teve problemas com o excesso de peso. Um dia, porém, depois de uma vida inteira de sofrimento, eles finalmente decicem mudar. Mas, para isso, precisarão antes enfrentar um árduo processo, repleto de obstáculos e superações. Será que eles irão conseguir? 
+Dois estranhos, completamente desconhecidos entre si, embarcam em um voo internacional, ambos com suas próprias vidas, segredos e motivos para viajar. Mas, durante o trajeto, algo dá errado. O avião sofre uma falha catastrófica e cai no meio do oceano, fazendo com que a aeronave se fragmentasse e as duas partes do avião caíssem em pontos opostos de uma ilha remota e inexplorada.
+
+Agora, você controla um dos personagens, enquanto o outro é controlado por outro jogador, dependendo do modo de jogo. Cada um está em uma parte isolada da ilha, sem saber se o outro está vivo. Sem comunicações e sem qualquer ajuda externa, os dois precisam sobreviver, explorar a ilha e, eventualmente, encontrar uma maneira de se reunir. Mas a ilha esconde mistérios profundos e perigos, desde a fauna selvagem até vestígios de uma presença misteriosa que pode ameaçar sobrevivência dos personagens.
 
 # Jogo Ideal
 
 ## Universo
 
-Shape Adventure se passa em um universo repleto de obstáculos e tramas. Com analogias diretas ao processo real de recomposição corporal, os personagens enfrentarão os principais empecilhos da evolução física: comidas hipercalóricas, impaciência e cansaço. Ao mesmo tempo, encontrarão, na alimentação e atividade física, alicerces para a transformação.
+A ilha, bela e mortal, é repleta de perigos naturais e não naturais, os personagens vão experimentar o que é lutar para sobreviver.
+
+Explorar é vital, mas arriscado: você precisará gerenciar recursos, construir abrigo e lidar com a solidão e o medo. Conforme avança, flashbacks e descobertas revelam verdades sobre os personagens e a ilha, trazendo dilemas emocionais e morais. A reunião dos dois pode trazer tanto alianças quanto conflitos, dependendo das escolhas feitas.
+
+Com múltiplos finais, decisões impactantes e uma narrativa imersiva, o jogo mescla sobrevivência realista, tensão psicológica e mistérios profundos em um cenário onde a verdade pode ser tão perigosa quanto a própria ilha.
 
 ## Personagens
 
