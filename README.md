@@ -20,8 +20,8 @@ Com múltiplos finais, decisões impactantes e uma narrativa imersiva, o jogo me
 ## Personagens
 
 #### Fábio:
-
-
+Preso a uma rotina vazia em uma cidade americana sem brilho, ele leva uma vida marcada pela solidão e falta de propósito. Como avaliador de riscos em uma empresa de seguros, seu trabalho é calcular o custo-benefício de recalls de produtos defeituosos Apesar de desprezar o emprego, ele é promovido, uma ironia amarga que intensifica seu sentimento de desconexão. Agora, sua agenda está repleta de viagens internacionais, visitando locais distantes para avaliar casos complexos. Mas, para ele, cada aeroporto, hotel e reunião é apenas mais um capítulo na monotonia de uma vida sem significado.
+Tudo muda quando uma viagem inesperada o leva à Islândia. A caminho do país, uma tragédia acontece e põe sua vida em risco. Ficando entre o gelo e o fogo de uma ilha inóspita, ele encontra pessoas, desafios e momentos que o forçam a repensar o que significa viver e, pela primeira vez, percebe que a vida talvez não precise ser medida pelo cálculo de perdas e ganhos.
 
 
 #### Heitor: 
