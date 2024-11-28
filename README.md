@@ -35,6 +35,11 @@ O objetivo de Island Adventure é sobreviver em uma ilha hostil, explorando seus
 
 ## Enredo
 
+O jogo começa com cada personagem acordando em locais diferentes da ilha. A primeira tarefa de cada um é sobreviver e se organizar para encontrar água, comida e abrigo. Cada parte da ilha oferece desafios únicos e perigos, mas também oportunidades para aprender mais sobre o que aconteceu antes da queda do avião. Ao longo do jogo, você tomará decisões que afetam tanto o seu próprio destino quanto o do outro personagem. 
+
+A ilha apresenta uma variedade de perigos naturais e obstáculos que vão desde criaturas selvagens, como feras misteriosas e animais predadores, até condições climáticas extremas e terrenos difíceis. O jogador precisa gerenciar recursos limitados, como alimentos, medicamentos e ferramentas, enquanto enfrenta a pressão psicológica da solidão e da luta pela sobrevivência. O medo de não encontrar o outro também é um fator constante.
+
+Ao longo do jogo, ambos os personagens começam a perceber sinais de que o outro ainda pode estar vivo. Agora, o jogador precisará tomar decisões críticas sobre como lidar com essa busca. Será que ambos serão capazes de se reunir antes que a ilha mostre seus mistérios mais sombrios? Quando se encontram, novas dinâmicas entram em jogo: uma relação de confiança precisa ser construída, já que ambos têm sobrevivido em partes isoladas da ilha com diferentes experiências e dificuldades.
 
 
 
