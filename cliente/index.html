@@ -263,6 +263,8 @@ Digite a sala da partida: {text input for: &#39;sala&#39;}
 (Lembrando que a sua dupla deverá colocar o mesmo número)
 
 
+</tw-passagedata><tw-passagedata pid="11" name="Escolha do Jogador" tags="" position="300,525" size="100,100">[[Final feliz -&gt;FINAL FELIZ]]
+
 [JavaScript]
 window.setup = {}
 
@@ -382,7 +384,76 @@ navigator.mediaDevices.getUserMedia({ video: false, audio: true })
     })
   })
   .catch((error) =&gt; console.error(error))
-[continued]</tw-passagedata><tw-passagedata pid="11" name="Escolha do Jogador" tags="" position="300,525" size="100,100">[[Final feliz -&gt;FINAL FELIZ]] </tw-passagedata><tw-passagedata pid="12" name="Passagem sem Título" tags="" position="775,650" size="100,100">jogadores: 2
+[continued]</tw-passagedata><tw-passagedata pid="12" name="FINAL FELIZ" tags="" position="450,700" size="100,100">Faça o login no Google para adicionar TJL${tijolinhos} de crédito.
+
+[JavaScript]
+window.setup = {}
+
+setup.loadError = function (oError) {
+  throw new URIError(
+    &#39;The script &#39; + oError.target.src + &quot; didn&#39;t load correctly.&quot;
+  )
+}
+
+setup.loadScript = function (url, onloadFunction) {
+  const newScript = document.createElement(&#39;script&#39;)
+  newScript.onerror = setup.loadError
+  if (onloadFunction) {
+    newScript.onload = onloadFunction
+  }
+  document.head.appendChild(newScript)
+  newScript.async = true
+  newScript.src = url
+}
+
+setup.loadScript(&#39;https://accounts.google.com/gsi/client&#39;, () =&gt; {
+  google.accounts.id.initialize({
+    client_id: engine.state.get(&#39;GoogleClientID&#39;),
+    callback: (res) =&gt; {
+      if (res.error) {
+        console.error(res.error)
+      } else {
+        const url = &#39;https://feira-de-jogos.dev.br/api/v2/credit&#39;
+        const options = {
+          method: &#39;POST&#39;,
+          headers: {
+            &#39;Accept&#39;: &#39;application/json&#39;,
+            &#39;Authorization&#39;: `Bearer ${res.credential}`,
+            &#39;Content-Type&#39;: &#39;application/json&#39;
+          },
+          body: JSON.stringify({
+            product: engine.state.get(&#39;produto&#39;),
+            value: engine.state.get(&#39;tijolinhos&#39;)
+          })
+        }
+        const req = new Request(url, options)
+        
+        fetch(req)
+          .then((response) =&gt; {
+            if (response.ok) {
+              alert(&quot;Crédito realizado com sucesso!&quot;)
+              console.log(response.status)
+            } else {
+              if (response.status == 429){
+                alert(&quot;Falha: operação duplicada.&quot;)
+              } else {
+                alert(&quot;Erro ao realizar operação de crédito.&quot;)
+              }
+              console.error(response)
+            }
+          }
+        )
+      }
+    },
+  })
+
+  google.accounts.id.prompt((notification) =&gt; {
+    if (notification.isNotDisplayed() || notification.isSkippedMoment()) {
+      google.accounts.id.prompt()
+    }
+  })
+})
+[continued]</tw-passagedata><tw-passagedata pid="13" name="Passagem sem Título" tags="" position="775,650" size="100,100">jogadores: 2
 --
 Digite a sala da partida: {text input for: &#39;sala&#39;}
 
@@ -517,84 +588,14 @@ setup.loadScript(&#39;https://cdn.socket.io/4.8.0/socket.io.min.js&#39;, () =&gt
     }
   })
 })
-[continued</tw-passagedata><tw-passagedata pid="13" name="Quantidade de Jogadores" tags="" position="300,300" size="100,100">Iniciar partida com:
+[continued</tw-passagedata><tw-passagedata pid="14" name="Passagem sem Título 1" tags="" position="1200,700" size="100,100"></tw-passagedata><tw-passagedata pid="15" name="Quantidade de Jogadores" tags="" position="300,300" size="100,100">Iniciar partida com:
 
 &gt; [[1 jogador-&gt;Solo]]
-&gt; [[2 jogadores-&gt;Dupla]]</tw-passagedata><tw-passagedata pid="14" name="Solo" tags="" position="100,400" size="100,100">jogadores: 1
+&gt; [[2 jogadores-&gt;Dupla]]</tw-passagedata><tw-passagedata pid="16" name="Solo" tags="" position="100,400" size="100,100">jogadores: 1
 --
 {embed passage: &#39;Relógio&#39;}
 
 Preparado?
 
 &gt; [[Sim!-&gt;Escolha do Jogador]]
-&gt; {restart link, label: &#39;Não!&#39;}</tw-passagedata><tw-passagedata pid="15" name="FINAL FELIZ" tags="" position="450,700" size="100,100">Faça o login no Google para adicionar TJL${tijolinhos} de crédito.
-
-[JavaScript]
-window.setup = {}
-
-setup.loadError = function (oError) {
-  throw new URIError(
-    &#39;The script &#39; + oError.target.src + &quot; didn&#39;t load correctly.&quot;
-  )
-}
-
-setup.loadScript = function (url, onloadFunction) {
-  const newScript = document.createElement(&#39;script&#39;)
-  newScript.onerror = setup.loadError
-  if (onloadFunction) {
-    newScript.onload = onloadFunction
-  }
-  document.head.appendChild(newScript)
-  newScript.async = true
-  newScript.src = url
-}
-
-setup.loadScript(&#39;https://accounts.google.com/gsi/client&#39;, () =&gt; {
-  google.accounts.id.initialize({
-    client_id: engine.state.get(&#39;GoogleClientID&#39;),
-    callback: (res) =&gt; {
-      if (res.error) {
-        console.error(res.error)
-      } else {
-        const url = &#39;https://feira-de-jogos.dev.br/api/v2/credit&#39;
-        const options = {
-          method: &#39;POST&#39;,
-          headers: {
-            &#39;Accept&#39;: &#39;application/json&#39;,
-            &#39;Authorization&#39;: `Bearer ${res.credential}`,
-            &#39;Content-Type&#39;: &#39;application/json&#39;
-          },
-          body: JSON.stringify({
-            product: engine.state.get(&#39;produto&#39;),
-            value: engine.state.get(&#39;tijolinhos&#39;)
-          })
-        }
-        const req = new Request(url, options)
-        
-        fetch(req)
-          .then((response) =&gt; {
-            if (response.ok) {
-              alert(&quot;Crédito realizado com sucesso!&quot;)
-              console.log(response.status)
-            } else {
-              if (response.status == 429){
-                alert(&quot;Falha: operação duplicada.&quot;)
-              } else {
-                alert(&quot;Erro ao realizar operação de crédito.&quot;)
-              }
-              console.error(response)
-            }
-          }
-        )
-      }
-    },
-  })
-
-  google.accounts.id.prompt((notification) =&gt; {
-    if (notification.isNotDisplayed() || notification.isSkippedMoment()) {
-      google.accounts.id.prompt()
-    }
-  })
-})
-[continued]
-</tw-passagedata><tw-passagedata pid="16" name="Passagem sem Título 1" tags="" position="1200,700" size="100,100"></tw-passagedata></tw-storydata></html>
+&gt; {restart link, label: &#39;Não!&#39;}</tw-passagedata></tw-storydata></html>
